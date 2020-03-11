@@ -1,0 +1,12 @@
+{
+	"sectionContainers": [{
+		"scId": 1,
+		"styles": { "--sc-text-color": "red" },
+		"text": "Section Container text",
+		"sections": [{
+			"sId": 11,
+			"styles": { "--s-text-size": "25px" },
+			"text": "Section text"
+		}]
+	}]
+}
